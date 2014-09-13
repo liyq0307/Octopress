@@ -4,7 +4,7 @@
   <title><![CDATA[My Octopress Blog]]></title>
   <link href="http://liyq0307.github.io/atom.xml" rel="self"/>
   <link href="http://liyq0307.github.io/"/>
-  <updated>2014-09-13T17:39:27+08:00</updated>
+  <updated>2014-09-13T21:08:55+08:00</updated>
   <id>http://liyq0307.github.io/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
@@ -18,7 +18,27 @@
     <link href="http://liyq0307.github.io/blog/2014/09/13/hello-myfirst-blog/"/>
     <updated>2014-09-13T17:33:54+08:00</updated>
     <id>http://liyq0307.github.io/blog/2014/09/13/hello-myfirst-blog</id>
-    <content type="html"><![CDATA[
+    <content type="html"><![CDATA[<br>
+
+
+<p></br></p>
+
+<div alogn="center">
+<img alt="pic" class="pic" data-bind="img:src;sty:style" src="http://g.hiphotos.baidu.com/image/pic/item/a8773912b31bb051ce4454fb347adab44bede085.jpg" style="width: 600px;">
+<br>
+</br>
+</div>
+
+
+<h3><center>Hello,This is MyFirst Blog!</h3>
+
+<!-- more -->
+
+
+<center>第一篇博客，喜欢么！</center>
+
+
+
 ]]></content>
   </entry>
   
