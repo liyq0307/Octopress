@@ -4,7 +4,7 @@ title: "Hello MyFirst Blog"
 date: 2014-09-13 17:33:54 +0800
 comments: true
 categories: Blog
-tags: [Octopress]
+
 ---
 
 <br>
