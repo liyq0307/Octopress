@@ -8,7 +8,7 @@ categories:
 <br>
 </br>
 <div alogn="center">
-<img src="http://image.baidu.com/detail/newindex?col=%E7%BE%8E%E5%A5%B3&tag=%E5%B0%8F%E6%B8%85%E6%96%B0&pn=0&pid=9276183282&aid=&user_id=149095500&setid=-1&sort=0&newsPn=&fr=&from=1" alt="" border="0" titil="Logo">
+<img src="http://g.hiphotos.baidu.com/image/pic/item/a8773912b31bb051ce4454fb347adab44bede085.jpg" alt="" border="0" titil="Logo">
 <br>
 </br>
 </div>
@@ -16,5 +16,5 @@ categories:
 ###<center>Hello,This is MyFirst Blog!###
 
 <!-- more -->
-*<center>第一篇博客，喜欢么！</center>
+<center>第一篇博客，喜欢么！</center>
 
