@@ -8,7 +8,7 @@ categories:
 <br>
 </br>
 <div alogn="center">
-<img src="http://g.hiphotos.baidu.com/image/pic/item/a8773912b31bb051ce4454fb347adab44bede085.jpg" alt="" border="0" titil="Logo">
+<img alt="pic" class="pic" data-bind="img:src;sty:style" src="http://g.hiphotos.baidu.com/image/pic/item/a8773912b31bb051ce4454fb347adab44bede085.jpg" style="width: 600px;">
 <br>
 </br>
 </div>
