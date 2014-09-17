@@ -3,8 +3,8 @@
 # ----------------------- #
 
 url: http://liyq0307.github.io
-title: EQ风情
-subtitle: A blogging framework for hackers.
+title: 一小口
+subtitle: 与君初相识，犹如故人归。
 author: Your Name
 simple_search: https://www.google.com/search
 description:
@@ -111,8 +111,8 @@ flag_count: true
 
 # Weibo  
 # Please refer to http://weibo.com/tool/weiboshow to get your uid and verifier.   
-weibo_uid: 1777976904           #WeiBo uid  
-weibo_verifier: 039d33aa        #WeiBo verifier  
+weibo_uid: 1869285352           #WeiBo uid  
+weibo_verifier: 7f8d4909        #WeiBo verifier  
 weibo_showfans: false           #showfans  
 weibo_fansline: 0               #fansline  
 weibo_show: true                #show weibo  
