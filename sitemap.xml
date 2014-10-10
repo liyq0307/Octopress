@@ -3,6 +3,12 @@
   
   
   <url>
+    <loc>http://liyq0307.github.io/blog/2014/10/10/blog-of-10-dot-10/</loc>
+    <lastmod>2014-10-10T21:30:57+08:00</lastmod>
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
     <loc>http://liyq0307.github.io/blog/2014/09/13/hello-myfirst-blog/</loc>
     <lastmod>2014-09-13T17:33:54+08:00</lastmod>
     <priority>0.8</priority>
@@ -11,21 +17,21 @@
   
   <url>
     <loc>http://liyq0307.github.io/blog/archives/</loc>
-    <lastmod>2014-09-17T20:16:26+08:00</lastmod>
+    <lastmod>2014-10-10T22:05:39+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   
   <url>
     <loc>http://liyq0307.github.io/</loc>
-    <lastmod>2014-09-17T20:16:26+08:00</lastmod>
+    <lastmod>2014-10-10T22:05:39+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
   
   <url>
     <loc>http://liyq0307.github.io/tag-cloud/</loc>
-    <lastmod>2014-09-17T20:16:26+08:00</lastmod>
+    <lastmod>2014-10-10T22:05:39+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
